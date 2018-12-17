@@ -11,6 +11,7 @@ The most important obstacle in donating money to the hungry people around the wo
 ## What we can do to reduce the food insecurity
 
 The main idea behind this article is to provide an information technology-based approach in reducing hunger among homeless and destitute people.
+
 Current solutions for metropolitan hunger are not efficient due to the variety of issues and difficulties as follows:
 
 - Ability of charities which use traditional methods to receive donations to prepare and distribute food is limited to a small number of hungry people.
@@ -35,7 +36,9 @@ For example, one person drops $20 a chip, and food and drinks are charged at $14
 - People will trust this new donation platform because it reduces the risks of money donation.
 - The cost of setup and maintenance of the platform is very low, because there is no need to establish an organization to procure the supplies, and prepare and distribute the foods. Also all the requirements including the restaurants and Food Delivery Apps' infrastructures are currently available.
 - The cost of distribution will be completely removed as the needy will go to the restaurant in-person to get it food and drinks.
+
 In addition of the above-mentioned items, other benefits for the restaurants and Food Delivery companies are:
+
 - More people (the donors) install and use the Food Delivery App.
 - Food Delivery companies can advertise on the chips and on the tags for the restaurants.
 - More restaurants join the Online Food Delivery ecosystem.
